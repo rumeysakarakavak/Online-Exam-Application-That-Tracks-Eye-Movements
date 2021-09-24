@@ -1,2 +1,3 @@
 # to change language of repo from CSS to Python
+*.rb linguist-language=Python
 *.js linguist-language=Python
